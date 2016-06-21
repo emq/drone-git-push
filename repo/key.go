@@ -7,7 +7,7 @@ import (
 	"os/user"
 	"path/filepath"
 
-	"github.com/drone/drone-go/drone"
+	"github.com/emq/drone-go/drone"
 )
 
 const netrcFile = `

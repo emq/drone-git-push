@@ -3,7 +3,7 @@ package repo
 import (
 	"os/exec"
 
-	"github.com/drone/drone-go/drone"
+	"github.com/emq/drone-go/drone"
 )
 
 func GlobalUser(build *drone.Build) *exec.Cmd {

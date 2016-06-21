@@ -6,9 +6,9 @@ import (
 	"os/exec"
 	"strings"
 
-	"github.com/drone-plugins/drone-git-push/repo"
-	"github.com/drone/drone-go/drone"
-	"github.com/drone/drone-go/plugin"
+	"github.com/emq/drone-git-push/repo"
+	"github.com/emq/drone-go/drone"
+	"github.com/emq/drone-go/plugin"
 )
 
 var (
